@@ -1,5 +1,5 @@
 # MARIE_Implementation
-Digital Design Logic Course project in Implementing MARIE Architecture
+Computer Architecture & Assembly Language Course project in Implementing MARIE Architecture
 
 ------------------------------------------------------------------------------------------------
 The project have the following instructions:
